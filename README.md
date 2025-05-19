@@ -83,5 +83,4 @@ global_country_insights_2023/
 For questions, suggestions, or collaborations, feel free to reach out:
 
 **Cliff Asmussen**  
-[Your Email or Portfolio Link]  
-[GitHub or LinkedIn Profile URL]
+cliffasmussen@gmail.com
